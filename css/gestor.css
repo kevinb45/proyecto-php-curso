@@ -1,0 +1,25 @@
+/* links: outlines and underscores */  
+a.btn, 			
+a.btn:active,	
+a.btn:focus, 
+
+button.btn:active, 
+button.btn:focus,   
+button.btn:active, 
+button.btn:focus, 
+
+.dropdown-menu li a,
+.dropdown-menu li a:active,
+.dropdown-menu li a:focus,
+.dropdown-menu li a:hover,
+
+ul.dropdown-menu li a,
+ul.dropdown-menu li a:active,
+ul.dropdown-menu li a:focus,
+ul.dropdown-menu li a:hover,
+
+.nav-tabs li a,
+.nav-tabs li a:active,
+.nav-tabs li a:focus { outline:0px !important; -webkit-appearance:none;  text-decoration:none; }  
+
+
