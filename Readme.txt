@@ -1,13 +1,11 @@
-Nombre: Kevin Grassi
-C閐ula: 4533802-6
 Usuario: admin
-Contrase馻: 1234
+Contrase帽a: 1234
 
-Archivos conexi髇
+Archivos conexi贸n
 Directorios: 
 Archivos/php/conexion.php
 Archivos/clases/conectar.php
 
 Cosas que no me funcionaron:
-- Validaci髇 Combobox y que traiga la informaci髇 de lo seleccionado
-en la edici髇.
+- Validaci贸n Combobox y que traiga la informaci贸n de lo seleccionado
+en la edici贸n.
